@@ -1,0 +1,8 @@
+Angular Demo
+
+1. Install Node (includes npm)
+2. Show how to check Node.js and npm version + briefly talk about the benefits of NVM / NPM in general
+3. Install Angular
+	- `npm install -g @angular/cli`
+	- If windows gets a PS policy error: `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
+	- If on unix, may need to do `sudo npm install -g @angular/cli`
