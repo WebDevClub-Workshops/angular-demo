@@ -6,3 +6,9 @@ Angular Demo
 	- `npm install -g @angular/cli`
 	- If windows gets a PS policy error: `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
 	- If on unix, may need to do `sudo npm install -g @angular/cli`
+4. Run `ng new my-app`
+5. Show how to run, Explain Component structure, App structure, etc.
+6. Generate new Home and about component with `npm install g c home-component` and `npm install g c about-component` in the app directory
+7. Show how to add components to Routing 
+
+_______________________________________
